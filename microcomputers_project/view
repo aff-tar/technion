@@ -1,0 +1,1 @@
+gedit /proc/my_ioctl_GDT /proc/my_ioctl_IDT /proc/my_ioctl_IRQ /proc/my_ioctl_PDIR /proc/my_ioctl_PTAB &
